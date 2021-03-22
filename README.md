@@ -1,6 +1,6 @@
 # hello-world
 
-#Name:  Aya Ashraf Ahmed 
-#Date:  February 2020
-#Account name for my github account
-aya68
+Hello there!
+
+Aya is here, i like ceramics art. coding and nuddles 
+i had cookies for dinner this night 
